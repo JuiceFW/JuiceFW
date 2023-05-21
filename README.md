@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Programmer from Russia! 🇷🇺</h3>
 
-<b>Русское портфолио</b>
+<b>Русское портфолио:</b><br>
 Привет! Меня зовут Владислав. У меня четырёх летний опыт программирования на Python. Выполняю работу качественно и быстро.
 Я хорошо разбираюсь: с таблицами Excel, API, JSON и могу использовать многопоточность.
 
@@ -35,7 +35,9 @@
 - Threading
 - и др.
 
-<b>English portfolio</b>
+<br><br>
+
+<b>English portfolio:</b><br>
 Hi! My name is Vladislav. I have four years of Python programming experience. I do the work efficiently and quickly.
 I am well versed: with Excel tables, API, JSON and can use multithreading.
 
