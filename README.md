@@ -7,33 +7,37 @@
 Я хорошо разбираюсь: с таблицами Excel, API, JSON и могу использовать многопоточность.
 
 Я умею писать:
-- Парсеры
-- Ботов телеграм
-- Юзер ботов телеграм
-- Ботов Discord
+  - Парсеры
+  - Ботов телеграм
+  - Юзер ботов телеграм
+  - Ботов Discord
 
 В моем портфолио есть такие скрипты, как:
-- Парсеры с использованием прокси, многопоточности и API
-- Боты телеграм. (Бот для чата, для заказов и т.п.) (Один из https://t.me/kworkbirga)
-- Проверка прокси на работоспособность
-- Боты Discord с поддержкой ДБ SQlite3
-- Юзер боты, которые парсят сообщения и видео из телеграм канала и пересылылают их в любые другие сервисы
-- Парсер страничек вконтакте с уведомлением в телеграм при обновлении.
-- VKDumper без access_token страничек ВК.
+  - Парсеры с использованием прокси, многопоточности и API
+  - Боты телеграм. (Бот для чата, для заказов и т.п.) (Один из https://t.me/kworkbirga)
+  - Проверка прокси на работоспособность
+  - Боты Discord с поддержкой ДБ SQlite3
+  - Юзер боты, которые парсят сообщения и видео из телеграм канала и пересылылают их в любые другие сервисы
+  - Парсер страничек вконтакте с уведомлением в телеграм при обновлении.
+  - VKDumper без access_token страничек ВК.
 
 Я умею использовать такие библиотеки, как:
-- Requests
-- Selenium (Chrome)
-- SQlite3
-- BeautifulSoup
-- Openpyxl
-- Pandas
-- JSON
-- Random
-- Time
-- Datetime
-- Threading
-- и др.
+  - Requests
+  - Selenium (Chrome)
+  - SQlite3
+  - BeautifulSoup
+  - Openpyxl
+  - Pandas
+  - JSON
+  - Random
+  - Time
+  - Datetime
+  - Threading
+  - и др.
+
+Мои последние собственные работы:
+ - https://t.me/kworkbirga
+ - https://t.me/PersonVKUpdateBot
 
 <br><br>
 
@@ -42,30 +46,34 @@ Hi! My name is Vladislav. I have four years of Python programming experience. I 
 I am well versed: with Excel tables, API, JSON and can use multithreading.
 
 I can write:
-- Parsers
-- Telegram Bots
-- Telegram bot user
-- Discord Bots
+  - Parsers
+  - Telegram Bots
+  - Telegram bot user
+  - Discord Bots
 
 In my portfolio there are scripts such as:
-- Parsers using proxies, multithreading and API
-- Telegram bots. (Bot for chat, for orders, etc.) (One of https://t.me/kworkbirga )
-- Checking the proxy for operability
-- Discord bots with DB SQlite3 support
-- User bots that parse messages and videos from the channel's telegrams and forward them to any other services
-- Vkontakte page parser with telegram notification when updating.
-- VKDumper without access_token VK pages.
+  - Parsers using proxies, multithreading and API
+  - Telegram bots. (Bot for chat, for orders, etc.) (One of https://t.me/kworkbirga )
+  - Checking the proxy for operability
+  - Discord bots with DB SQlite3 support
+  - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
+  - Vkontakte page parser with telegram notification when updating.
+  - VKDumper without access_token VK pages.
 
 I am able to use libraries such as:
-- Requests
-- Selenium (Chrome)
-- SQlite3
-- BeautifulSoup
-- Openpyxl
-- Pandas
-- JSON
-- Random
-- Time
-- Datetime
-- Threading
-- and others.
+  - Requests
+  - Selenium (Chrome)
+  - SQlite3
+  - BeautifulSoup
+  - Openpyxl
+  - Pandas
+  - JSON
+  - Random
+  - Time
+  - Datetime
+  - Threading
+  - and others.
+
+My latest own works:
+ - https://t.me/kworkbirga
+ - https://t.me/PersonVKUpdateBot
