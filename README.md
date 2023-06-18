@@ -20,6 +20,7 @@
   - Юзер боты, которые парсят сообщения и видео из телеграм канала и пересылылают их в любые другие сервисы
   - Парсер страничек вконтакте с уведомлением в телеграм при обновлении.
   - VKDumper без access_token страничек ВК.
+  - Discord Self Bot (возможны ограничения)
 
 Я умею использовать такие библиотеки, как:
   - Requests
@@ -33,6 +34,8 @@
   - Time
   - Datetime
   - Threading
+  - DiscordPy
+  - PyTelegramBotAPI
   - и др.
 
 Мои последние собственные работы:
@@ -59,6 +62,7 @@ In my portfolio there are scripts such as:
   - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
   - Vkontakte page parser with telegram notification when updating.
   - VKDumper without access_token VK pages.
+  - Discord Self Bot (restrictions are possible)
 
 I am able to use libraries such as:
   - Requests
@@ -72,6 +76,8 @@ I am able to use libraries such as:
   - Time
   - Datetime
   - Threading
+  - DiscordPy
+  - PyTelegramBotAPI
   - and others.
 
 My latest own works:
