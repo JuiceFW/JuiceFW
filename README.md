@@ -2,12 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Programmer from Russia! 🇷🇺</h3>
 
-<b>Русское портфолио:</b><br>
+<b>Русское портфолио:</b><br><br>
 Привет! Меня зовут Владислав. У меня четырёх летний опыт программирования на Python. Выполняю работу качественно и быстро.
 Я хорошо разбираюсь: с таблицами Excel, API, JSON и могу использовать многопоточность.
 
 Я умею писать:
   - Парсеры
+  - Парсеры по запросам
   - Ботов телеграм
   - Юзер ботов телеграм
   - Ботов Discord
@@ -26,6 +27,7 @@
   - Requests
   - Selenium (Chrome)
   - SQlite3
+  - PyMySQL
   - BeautifulSoup
   - Openpyxl
   - Pandas
@@ -44,12 +46,13 @@
 
 <br><br>
 
-<b>English portfolio:</b><br>
+<b>English portfolio:</b><br><br>
 Hi! My name is Vladislav. I have four years of Python programming experience. I do the work efficiently and quickly.
 I am well versed: with Excel tables, API, JSON and can use multithreading.
 
 I can write:
   - Parsers
+  - Parsers with requests
   - Telegram Bots
   - Telegram bot user
   - Discord Bots
@@ -68,6 +71,7 @@ I am able to use libraries such as:
   - Requests
   - Selenium (Chrome)
   - SQlite3
+  - PyMySQL
   - BeautifulSoup
   - Openpyxl
   - Pandas
