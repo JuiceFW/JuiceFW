@@ -22,6 +22,7 @@
   - Парсер страничек вконтакте с уведомлением в телеграм при обновлении.
   - VKDumper без access_token страничек ВК.
   - Discord Self Bot (возможны ограничения)
+  - Сбор данных с Яндекс Метрики и Яндекс Директа, с последующей записи в базу MySQL.
 
 Я умею использовать такие библиотеки, как:
   - Requests
@@ -41,8 +42,8 @@
   - и др.
 
 Мои последние собственные работы:
- - https://t.me/kworkbirga
- - https://t.me/PersonVKUpdateBot
+ - https://t.me/kworkbirga (более не работает, но история сохранилась)
+ - https://t.me/PersonVKUpdateBot (более не работает)
 
 <br><br>
 
@@ -66,6 +67,7 @@ In my portfolio there are scripts such as:
   - Vkontakte page parser with telegram notification when updating.
   - VKDumper without access_token VK pages.
   - Discord Self Bot (restrictions are possible)
+  - Data collection from Yandex.Metrica and Yandex. Direct, with subsequent entry into the MySQL database.
 
 I am able to use libraries such as:
   - Requests
@@ -85,5 +87,5 @@ I am able to use libraries such as:
   - and others.
 
 My latest own works:
- - https://t.me/kworkbirga
- - https://t.me/PersonVKUpdateBot
+ - https://t.me/kworkbirga (no longer works, but the history is preserved)
+ - https://t.me/PersonVKUpdateBot (no longer works)
