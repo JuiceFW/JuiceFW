@@ -17,7 +17,7 @@
   - Парсеры с использованием прокси, многопоточности и API
   - Боты телеграм. (Бот для чата, для заказов и т.п.) (Один из https://t.me/kworkbirga)
   - Проверка прокси на работоспособность
-  - Боты Discord с поддержкой ДБ SQlite3
+  - Боты Discord с поддержкой ДБ MySQL
   - Юзер боты, которые парсят сообщения и видео из телеграм канала и пересылылают их в любые другие сервисы
   - Парсер страничек вконтакте с уведомлением в телеграм при обновлении.
   - VKDumper без access_token страничек ВК.
@@ -62,7 +62,7 @@ In my portfolio there are scripts such as:
   - Parsers using proxies, multithreading and API
   - Telegram bots. (Bot for chat, for orders, etc.) (One of https://t.me/kworkbirga )
   - Checking the proxy for operability
-  - Discord bots with DB SQlite3 support
+  - Discord bots with MySQL support
   - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
   - Vkontakte page parser with telegram notification when updating.
   - VKDumper without access_token VK pages.
