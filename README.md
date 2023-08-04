@@ -23,6 +23,9 @@
   - VKDumper без access_token страничек ВК.
   - Discord Self Bot (возможны ограничения)
   - Сбор данных с Яндекс Метрики и Яндекс Директа, с последующей записи в базу MySQL.
+  - Телеграм парсинг участников канала/групп
+  - Телеграм прогрев аккаунтов
+  - Телеграм парсинг чатов/данных аккаунта
 
 Я умею использовать такие библиотеки, как:
   - Requests
@@ -68,6 +71,9 @@ In my portfolio there are scripts such as:
   - VKDumper without access_token VK pages.
   - Discord Self Bot (restrictions are possible)
   - Data collection from Yandex.Metrica and Yandex. Direct, with subsequent entry into the MySQL database.
+  - Telegram parsing of channel members/groups
+  - Telegram warming up of accounts
+  - Telegram parsing of chats/account data
 
 I am able to use libraries such as:
   - Requests
