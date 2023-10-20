@@ -6,6 +6,8 @@
 Привет! Меня зовут Владислав. У меня четырёх летний опыт программирования на Python. Выполняю работу качественно и быстро.
 Я хорошо разбираюсь: с таблицами Excel, API, JSON и могу использовать многопоточность.
 
+Все мои телеграмм работы: https://t.me/juiceworks
+
 Я умею писать:
   - Парсеры
   - Парсеры по запросам
@@ -15,7 +17,7 @@
 
 В моем портфолио есть такие скрипты, как:
   - Парсеры с использованием прокси, многопоточности и API
-  - Боты телеграм. (Бот для чата, для заказов и т.п.) (Один из https://t.me/kworkbirga)
+  - Боты телеграм. (Бот для чата, для заказов и т.п.) (Например: https://t.me/kworkbirga или https://t.me/IP_Cities_Bot)
   - Проверка прокси на работоспособность
   - Боты Discord с поддержкой ДБ MySQL
   - Юзер боты, которые парсят сообщения и видео из телеграм канала и пересылылают их в любые другие сервисы
@@ -54,6 +56,8 @@
 Hi! My name is Vladislav. I have four years of Python programming experience. I do the work efficiently and quickly.
 I am well versed: with Excel tables, API, JSON and can use multithreading.
 
+All my telegram works: https://t.me/juiceworks
+
 I can write:
   - Parsers
   - Parsers with requests
@@ -63,7 +67,7 @@ I can write:
 
 In my portfolio there are scripts such as:
   - Parsers using proxies, multithreading and API
-  - Telegram bots. (Bot for chat, for orders, etc.) (One of https://t.me/kworkbirga )
+  - Telegram bots. (Bot for chat, for orders, etc.) (Example: https://t.me/kworkbirga или https://t.me/IP_Cities_Bot)
   - Checking the proxy for operability
   - Discord bots with MySQL support
   - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
