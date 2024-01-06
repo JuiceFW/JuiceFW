@@ -121,3 +121,11 @@ I am able to use libraries such as:
 My latest own works:
  - https://t.me/kworkbirga (no longer works, but the history is preserved)
  - https://t.me/PersonVKUpdateBot (no longer works)
+
+#
+
+### 📊 Stats
+
+![JuiceFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuiceFW&show_icons=true&theme=dracula)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JuiceFW&theme=dracula&border_radius=4.5) -->
