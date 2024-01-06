@@ -72,7 +72,7 @@
  - https://t.me/kworkbirga (более не работает, но история сохранилась)
  - https://t.me/PersonVKUpdateBot (более не работает)
 
-<br><br>
+---
 
 <b>English portfolio:</b><br><br>
 Hi! My name is Vladislav. I have four years of Python programming experience. I do the work efficiently and quickly.
