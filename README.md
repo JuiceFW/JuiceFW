@@ -39,7 +39,7 @@ I can write:
 
 In my portfolio there are scripts such as:
   - Parsers using proxies, multithreading and API
-  - Telegram bots. (Bot for chat, for orders, etc.) (Example: https://t.me/kworkbirga или https://t.me/IP_Cities_Bot)
+  - Telegram bots. (Bot for chat, for orders, etc.) (Example: <a href="https://t.me/anonimous_msg_bot">anonimous_msg_bot</a>)
   - Checking the proxy for operability
   - Discord bots with MySQL support
   - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
@@ -55,6 +55,7 @@ I am able to use libraries such as:
   - Requests
   - Selenium (Chrome)
   - SQlite3
+  - Postgres
   - PyMySQL
   - BeautifulSoup
   - Openpyxl
