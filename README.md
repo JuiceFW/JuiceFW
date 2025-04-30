@@ -25,8 +25,9 @@
 #
 
 <b>English portfolio:</b><br><br>
-Hi! My name is Vladislav. I have four years of Python programming experience. I do the work efficiently and quickly.
-I am well versed: with Excel tables, API, JSON and can use multithreading.
+Hi! My name is Vladislav. I have over five years of experience in Python programming.
+I have written over a million lines of code. I do the work efficiently and quickly.
+I am well-versed in Excel spreadsheets, APIs, and JSON, and I can use multithreading.
 
 All my telegram works: https://t.me/juiceworks
 
@@ -36,38 +37,23 @@ I can write:
   - Telegram Bots
   - Telegram bot user
   - Discord Bots
+  - etc
 
 In my portfolio there are scripts such as:
   - Parsers using proxies, multithreading and API
   - Telegram bots. (Bot for chat, for orders, etc.) (Example: <a href="https://t.me/anonimous_msg_bot">anonimous_msg_bot</a>)
   - Checking the proxy for operability
-  - Discord bots with MySQL support
+  - Discord bots with DB support
   - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
   - Vkontakte page parser with telegram notification when updating.
   - VKDumper without access_token VK pages.
   - Discord Self Bot (restrictions are possible)
-  - Data collection from Yandex.Metrica and Yandex. Direct, with subsequent entry into the MySQL database.
+  - Data collection from Yandex.Metrica and Yandex. Direct, with subsequent entry into the DB database.
   - Telegram parsing of channel members/groups
   - Telegram warming up of accounts
   - Telegram parsing of chats/account data
 
-I am able to use libraries such as:
-  - Requests
-  - Selenium (Chrome)
-  - SQlite3
-  - Postgres
-  - PyMySQL
-  - BeautifulSoup
-  - Openpyxl
-  - Pandas
-  - JSON
-  - Random
-  - Time
-  - Datetime
-  - Threading
-  - DiscordPy
-  - PyTelegramBotAPI
-  - and others.
+I've worked with over 100 libraries.
 
 #
 
