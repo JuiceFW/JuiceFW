@@ -33,27 +33,25 @@ All my telegram works: https://t.me/juiceworks
 
 I can write:
   - Parsers
-  - Parsers with requests
   - Telegram Bots
-  - Telegram bot user
+  - Telegram User-Bots
   - Discord Bots
-  - etc
+  - And a lot more!
 
 In my portfolio there are scripts such as:
-  - Parsers using proxies, multithreading and API
-  - Telegram bots. (Bot for chat, for orders, etc.) (Example: <a href="https://t.me/anonimous_msg_bot">anonimous_msg_bot</a>)
-  - Checking the proxy for operability
-  - Discord bots with DB support
-  - User bots that parse messages and videos from the channel's telegrams and forward them to any other services
-  - Vkontakte page parser with telegram notification when updating.
-  - VKDumper without access_token VK pages.
-  - Discord Self Bot (restrictions are possible)
-  - Data collection from Yandex.Metrica and Yandex. Direct, with subsequent entry into the DB database.
-  - Telegram parsing of channel members/groups
-  - Telegram warming up of accounts
-  - Telegram parsing of chats/account data
+  - Parsers using: browser-simulation, requests, proxies, multithreading, API;
+  - Telegram bots; (Example: <a href="https://t.me/anonimous_msg_bot">anonimous_msg_bot</a>)
+  - Proxy operability checker;
+  - Discord bots with DB support;
+  - Telegram forwarders;
+  - VK parser;
+  - VK dumper;
+  - Discord User *(self)* Bot;
+  - Yandex.Metrica, Yandex.Direct API work;
+  - Telegram parser (members, accounts, chats);
+  - Telegram warmers for accounts;
 
-I've worked with over 100 libraries.
+I've already worked with over 100 libraries and not stopping!
 
 #
 
