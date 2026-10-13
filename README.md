@@ -1,65 +1,82 @@
-<h1 align="center">Hi there, I'm <a href="https://kwork.ru/user/juicefw" target="_blank">Juice</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Programmer from Russia! 🇷🇺</h3>
+# 👋 Hi, I'm Juice!
 
-   <p align="center">
-      <a href="https://github.com/JuiceFW?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JuiceFW?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/JuiceFW?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JuiceFW?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+  <a href="README.md">🇪🇳 English</a> ·
+  <a href="README.ru.md">🇷🇺 Русский</a>
+</p>
+
+<h3 align="center">🐍 Python Developer · Automation · Bots · Parsers</h3>
+
+<p align="center">
+  <a href="https://kwork.ru/user/juicefw">
+    <img src="https://img.shields.io/badge/Hire_me_on-Kwork-00A67D?style=for-the-badge" alt="Hire me on Kwork"/>
+  </a>
+  <a href="https://github.com/JuiceFW?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/JuiceFW?style=for-the-badge&logo=person-add&label=Followers&color=236ad3" alt="GitHub followers"/>
+  </a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+## 👨‍💻 About Me
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+Hi! I'm **Vladislav**, a Python developer with **5+ years of programming experience**.
 
-<br />
+I build practical solutions that automate routine tasks, process data, integrate APIs, and simplify complex workflows. I value clean code, reliable results, and efficient development.
 
-#
+- 🐍 **Python** — automation, scripting, bots, and data processing
+- 🤖 **Bots** — Telegram, Discord, VK and other
+- 🌐 **Parsing** — web scraping, APIs, proxies, and multithreading
+- 🔌 **Integrations** — REST APIs, JSON, and third-party services
+- 🗄️ **Databases** — data storage and database-backed applications
+- 🛠️ **Tools** — Git, Linux, HTML, and CSS
 
-<b>English portfolio:</b><br><br>
-Hi! My name is Vladislav. I have over five years of experience in Python programming.
-I have written over a million lines of code. I do the work efficiently and quickly.
-I am well-versed in Excel spreadsheets, APIs, and JSON, and I can use multithreading.
+I've written **1,000,000+ lines of code** and worked with **100+ libraries** throughout my development experience.
 
-I can write:
-  - Parsers
-  - Telegram Bots
-  - Telegram User-Bots
-  - Discord Bots
-  - And a lot more!
+## 🧰 Tech Stack
 
-In my portfolio there are scripts such as:
-  - Parsers using: browser-simulation, requests, proxies, multithreading, API;
-  - Telegram bots;
-  - Proxy operability checker;
-  - Discord bots with DB support;
-  - Telegram forwarders;
-  - VK parser;
-  - VK dumper;
-  - Discord User *(self)* Bot;
-  - Yandex.Metrica, Yandex.Direct API work;
-  - Telegram parser (members, accounts, chats);
-  - Telegram warmers for accounts;
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,html,css&perline=6" alt="Python, Git, GitHub, Linux, HTML, CSS"/>
+</p>
 
-I've already written more than 1.000.000 lines of code and worked with over 100 libraries!
+## 🚀 What I Can Build
 
-Take a look at some of my work:
- - <a href="https://t.me/anonimous_msg_bot">Telegram Anonymous Messages</a>
- - <a href="https://t.me/rounds_maker_bot">Telegram RoundsMaker Bot</a>
- - <a href="https://t.me/PinnedRemoverBot">Telegram Pinned Remover</a>
+| Category | Examples |
+|---|---|
+| 🕷️ Web Scraping | Parsers, browser automation, proxy support, multithreading |
+| 🤖 Telegram | Bots, userbots, message forwarding, chat and member parsers |
+| 🎮 Discord | Bots, automation, and database integrations |
+| 🔗 API Integration | REST APIs, JSON processing, Yandex services |
+| ⚙️ Automation | Custom scripts, data processing, and repetitive task automation |
+| 📊 Data Tools | VK parsers, dumpers, checkers, and data utilities |
 
-#
+## 🌟 Featured Projects
 
-### 📊 Stats
+<p align="center">
+  <a href="https://t.me/anonimous_msg_bot">
+    <img src="https://img.shields.io/badge/Telegram-Anonymous_Messages-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Anonymous Messages"/>
+  </a>
+  <a href="https://t.me/rounds_maker_bot">
+    <img src="https://img.shields.io/badge/Telegram-RoundsMaker-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="RoundsMaker"/>
+  </a>
+  <a href="https://t.me/PinnedRemoverBot">
+    <img src="https://img.shields.io/badge/Telegram-Pinned_Remover-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Pinned Remover"/>
+  </a>
+</p>
 
-![JuiceFW's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuiceFW&show_icons=true&theme=dracula)
+<!-- - 💬 [EXAMPLE](https://EXAMPLE.COM) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JuiceFW&theme=dracula&border_radius=4.5) -->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuiceFW&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuiceFW&layout=compact&theme=dracula&hide_border=true" alt="Most used languages"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Have an idea? Let's turn it into code! 🚀</b>
+  <br/>
+  <a href="https://kwork.ru/user/juicefw">Contact me on Kwork</a>
+</p>
