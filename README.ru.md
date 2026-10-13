@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Заказать_на-Kwork-00A67D?style=for-the-badge" alt="Заказать на Kwork"/>
   </a>
   <a href="https://github.com/JuiceFW?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/JuiceFW?style=for-the-badge&logo=person-add&label=Подписчики&color=236ad3" alt="Подписчики GitHub"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/JuiceFW?style=for-the-badge&logo=person-add&label=Followers&color=236ad3" alt="Подписчики GitHub"/>
   </a>
 </p>
 
